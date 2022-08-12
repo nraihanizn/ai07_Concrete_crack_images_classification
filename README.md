@@ -1,4 +1,4 @@
-Detecting Concrete Crack Images for Classification
+# Detecting Concrete Crack Images for Classification
 
 ## 1. Overview
 Ther purpose of this project is to classify an images of concrete wall whether it has cracks or not. This project was conducted by using the dataset from https://data.mendeley.com/datasets/5y9wdsg2zt/2 and was created using Spyder IDE. 
